@@ -1,0 +1,18 @@
+.wrapper {
+  width: 400px;
+  border: 5px solid rebeccapurple;
+  opacity: 0.6;
+}
+
+.box {
+  border: 5px solid blue;
+  opacity: 0.6;
+}
+
+.px {
+  width: 200px;
+}
+
+.percent {
+  width: 98%;
+}
