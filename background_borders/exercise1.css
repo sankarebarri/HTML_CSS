@@ -1,0 +1,25 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font: 1.2em / 1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
+  padding: 1em;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+.box {
+  width: 500px;
+  padding: 0.5em;
+  border: 5px solid black;
+  border-radius: 10px;
+  background-image: url('https://cdn.pixabay.com/photo/2022/05/10/11/12/tree-7186835_960_720.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h2 {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
