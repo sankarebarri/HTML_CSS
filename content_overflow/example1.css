@@ -1,0 +1,14 @@
+.box {
+  border: 1px solid #333;
+  width: 200px;
+  height: 100px;
+  overflow: hidden;
+}
+
+.word {
+  border: 1px solid #333;
+  width: 100px;
+  font-size: 250%;
+  background-color: #ad4;
+  overflow: scroll;
+}
